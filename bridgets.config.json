@@ -1,0 +1,7 @@
+{
+    "tsConfigLocation": "./tsconfig.json",
+    "typeLocation": "./src/index.ts",
+    "sdkLocation": "./sdksdk",
+    "sdkTypeName": "CEQUETUVEUX"
+}
+  
